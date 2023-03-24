@@ -16,8 +16,11 @@ https://drive.google.com/file/d/1TZzW8ZlDdvIfDC9C46bUeILey6opQjdu/view?usp=share
 
 Табличка (после слов “Последнее задание, таблица:”):
 https://drive.google.com/file/d/1TZzW8ZlDdvIfDC9C46bUeILey6opQjdu/view?usp=share_link
+
 Вывести название и цену для всех анализов, которые продавались 5 февраля 2020 и всю следующую неделю.
+
 Есть таблица анализов Analysis:
+
 an_id — ID анализа;
 an_name — название анализа;
 an_cost — себестоимость анализа;
