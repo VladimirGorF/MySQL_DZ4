@@ -7,6 +7,7 @@ https://drive.google.com/file/d/1TZzW8ZlDdvIfDC9C46bUeILey6opQjdu/view?usp=share
 
 
 Вывести магазин, в котором продается кот “Мурзик” (попробуйте выполнить 2 способами)
+<img width="2048" alt="Снимок экрана 2023-03-24 в 11 22 56" src="https://user-images.githubusercontent.com/110591063/227464435-f90ba24d-23a5-44ac-b75c-81c160dae1a4.png">
 
 
 Вывести магазины, в котором НЕ продаются коты “Мурзик” и “Zuza”
