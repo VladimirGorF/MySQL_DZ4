@@ -11,6 +11,7 @@ https://drive.google.com/file/d/1TZzW8ZlDdvIfDC9C46bUeILey6opQjdu/view?usp=share
 
 
 Вывести магазины, в котором НЕ продаются коты “Мурзик” и “Zuza”
+<img width="2048" alt="Снимок экрана 2023-03-24 в 13 27 03" src="https://user-images.githubusercontent.com/110591063/227496868-b002c3a5-a0b0-4c16-a33a-8ae6f2c1350c.png">
 
 
 Табличка (после слов “Последнее задание, таблица:”):
