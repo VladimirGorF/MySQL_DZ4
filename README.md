@@ -46,7 +46,13 @@ ord_an — ID анализа.
 Табличка:
 https://drive.google.com/file/d/1PQn576YVakvlWrIgIjSP9YEf5id4cqYs/view?usp=sharing
 1. Вывести на экран сколько машин каждого цвета для машин марок BMW и LADA
+<img width="2048" alt="Снимок экрана 2023-03-24 в 19 12 53" src="https://user-images.githubusercontent.com/110591063/227581427-eb899223-4055-4b5b-8199-307a0a783315.png">
+
+
 2. Вывести на экран марку авто и количество AUTO не этой марки
+<img width="2048" alt="Снимок экрана 2023-03-24 в 19 27 36" src="https://user-images.githubusercontent.com/110591063/227584906-4712c33c-1cb3-4f39-8226-2e9ccb9614a1.png">
+
+
 Задание №3.
 Даны 2 таблицы, созданные следующим образом:
 create table test_a (id INT, data varchar(45));
