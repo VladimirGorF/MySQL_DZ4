@@ -34,7 +34,8 @@ gr_temp — температурный режим хранения.
 ord_id — ID заказа;
 ord_datetime — дата и время заказа;
 ord_an — ID анализа.
-<img width="2048" alt="Снимок экрана 2023-03-24 в 15 34 47" src="https://user-images.githubusercontent.com/110591063/227522711-776413f5-4789-480f-bf45-e3990c540c9a.png">
+<img width="2048" alt="Снимок экрана 2023-03-24 в 15 39 24" src="https://user-images.githubusercontent.com/110591063/227523659-57a83591-394f-4eea-bdce-6ac47a9e46e0.png">
+
 
 
 
