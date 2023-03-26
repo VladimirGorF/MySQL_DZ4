@@ -68,4 +68,5 @@ insert into test_b(id) values
 (30),
 (50);
 Напишите запрос, который вернет строки из таблицы test_a, id которых нет в таблице test_b, НЕ используя ключевого слова NOT.
+<img width="2048" alt="Снимок экрана 2023-03-26 в 10 55 36" src="https://user-images.githubusercontent.com/110591063/227762919-940d81cb-c2c0-4a5b-9d35-8ffd8efd961a.png">
 
